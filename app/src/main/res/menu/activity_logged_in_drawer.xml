@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item android:title="Want to sell?">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_sell"
+                    android:icon="@drawable/ic_menu_sell"
+                    android:title="Sell Here" />
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="Others">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_purpose"
+                    android:icon="@drawable/ic_menu_info"
+                    android:title="Purpose of the App" />
+                <item
+                    android:id="@+id/nav_suggestions"
+                    android:icon="@drawable/ic_menu_suggestion"
+                    android:title="Suggestions" />
+                <item
+                    android:id="@+id/nav_signout"
+                    android:icon="@drawable/ic_menu_signout"
+                    android:title="Sign Out" />
+
+            </group>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/saksham/AndroidStudioProjects/CharityFirstCenter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7724eefdedbaa92c3da7127e645f176b/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bee9863381cdc79e1e665b94de30b74a/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

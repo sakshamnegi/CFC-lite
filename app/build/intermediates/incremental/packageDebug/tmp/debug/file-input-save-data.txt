@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Jul 09 18:27:49 IST 2018
+1.base=/home/saksham/AndroidStudioProjects/CharityFirstCenter/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/home/saksham/AndroidStudioProjects/CharityFirstCenter/app/build/intermediates/transforms/dexMerger/debug/34
+1.path=crashlytics-build.properties

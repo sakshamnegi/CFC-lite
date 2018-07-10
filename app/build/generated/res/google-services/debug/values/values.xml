@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">942625903261-u4ra4jupve2spc8aa0hqie63233melun.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://charity-first-center.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">942625903261</string>
+    <string name="google_api_key" translatable="false">AIzaSyAmf68PhR_20dTJ64UyBgDBPZX4nT1ZqIA</string>
+    <string name="google_app_id" translatable="false">1:942625903261:android:a4ce7fa68673b789</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAmf68PhR_20dTJ64UyBgDBPZX4nT1ZqIA</string>
+    <string name="google_storage_bucket" translatable="false">charity-first-center.appspot.com</string>
+    <string name="project_id" translatable="false">charity-first-center</string>
+</resources>

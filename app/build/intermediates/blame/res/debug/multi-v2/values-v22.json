@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/saksham/AndroidStudioProjects/CharityFirstCenter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bee9863381cdc79e1e665b94de30b74a/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}

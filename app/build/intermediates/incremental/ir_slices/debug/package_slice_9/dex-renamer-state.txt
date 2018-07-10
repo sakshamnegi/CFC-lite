@@ -1,0 +1,4 @@
+#Mon Jul 09 14:25:21 IST 2018
+base.0=/home/saksham/AndroidStudioProjects/CharityFirstCenter/app/build/intermediates/transforms/dexMerger/debug/27
+path.0=classes.dex
+renamed.0=classes.dex

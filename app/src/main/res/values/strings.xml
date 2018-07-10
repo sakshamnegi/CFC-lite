@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Charity First Center</string>
+    <string name="slogan1">Shop/Sell for charity   : )</string>
+    <string name="slogan2">Help to raise funds for a social cause...</string>
+    <string name="title_activity_logged_in">LoggedIn</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="purpose">The aim of this app and idea is to encourage and help NGOs
+        and social entrepreneurs to sell their products to raise funds for social causes.
+        We hope in this way we can take a step in giving back to the society </string>
+
+    <string-array name="category_array">
+        <item> Choose Category </item>
+        <item> Handicraft </item>
+        <item> Food Products </item>
+        <item> Clothing </item>
+        <item> Accessories </item>
+        <item> Pottery </item>
+        <item> Others </item>
+    </string-array>
+</resources>
+

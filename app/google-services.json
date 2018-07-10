@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "942625903261",
+    "firebase_url": "https://charity-first-center.firebaseio.com",
+    "project_id": "charity-first-center",
+    "storage_bucket": "charity-first-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942625903261:android:a4ce7fa68673b789",
+        "android_client_info": {
+          "package_name": "com.yefindia.intern.charityfirstcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942625903261-bmq0jdg8apu5muej7m6ng9103rponisd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yefindia.intern.charityfirstcenter",
+            "certificate_hash": "65759420fb25b164a2cf274fc8d8c50c128bc20d"
+          }
+        },
+        {
+          "client_id": "942625903261-u4ra4jupve2spc8aa0hqie63233melun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmf68PhR_20dTJ64UyBgDBPZX4nT1ZqIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942625903261-u4ra4jupve2spc8aa0hqie63233melun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
