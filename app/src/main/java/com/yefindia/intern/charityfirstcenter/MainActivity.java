@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
             // Start Logged in activity and display toast
 
             startActivity(new Intent(this,LoggedIn.class));
+            finish();
 
             Toast.makeText(this,
                     "Welcome " + FirebaseAuth.getInstance()
@@ -144,6 +145,11 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+    }
+
+    @Override
+    public void onBackPressed() {
+        finish();
     }
 
 }

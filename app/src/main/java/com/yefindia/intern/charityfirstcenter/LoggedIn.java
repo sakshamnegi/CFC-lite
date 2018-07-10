@@ -122,7 +122,7 @@ public class LoggedIn extends AppCompatActivity
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
         } else {
-            super.onBackPressed();
+            finish();
         }
     }
 
@@ -175,9 +175,6 @@ public class LoggedIn extends AppCompatActivity
                         });
 
         }
-
-
-
 
 
     // TODO Change action bar header title
